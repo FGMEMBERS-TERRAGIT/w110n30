@@ -1,0 +1,14 @@
+OBJECT_SHARED Models/Communications/radio-medium.xml -104.877222 39.105 2009.19 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -104.868611 39.074167 1963.59 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -104.817778 39.006111 1854 180
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac -104.789261 39.122424 2226.26 273.98
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac -104.789045 39.124875 2213.21 295.23
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac -104.788888 39.121048 2234.75 281.87
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac -104.786795 39.101491 2243.46 267.95
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac -104.786739 39.101615 2243.56 259.71
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac -104.786727 39.101297 2242.53 291
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac -104.786504 39.110946 2234.82 267.55
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac -104.786495 39.110229 2239.04 269.65
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac -104.786394 39.11184 2229.92 273.21
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac -104.786111 39.10035 2237.71 296.78
+OBJECT_STATIC usafa_chapel.ac -104.89025 39.0083 2189.19 96.7

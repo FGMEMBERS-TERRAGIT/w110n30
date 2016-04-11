@@ -1,0 +1,17 @@
+OBJECT_SHARED Models/Power/windturbine.xml -100.302222 34.41 496.82 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -100.275694 34.433583 425.73 180
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac -100.395734 34.498407 572.7 307.38
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac -100.394781 34.49692 574.3 304.73
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac -100.391308 34.493697 585.06 312.08
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac -100.389125 34.491737 586.15 312.09
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac -100.38765 34.490369 582.86 310.71
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac -100.387453 34.490174 582.38 310.88
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac -100.384004 34.487013 574.79 313.24
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac -100.383453 34.486551 573.69 314.36
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac -100.380824 34.484323 568.36 314.26
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac -100.379117 34.482882 561.45 321.34
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac -100.375447 34.481018 543.99 335.9
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac -100.375243 34.480968 543.5 322.49
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac -100.375179 34.480882 543.18 300.78
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac -100.375165 34.480862 543.11 307.59
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac -100.374267 34.480126 539.77 315.16

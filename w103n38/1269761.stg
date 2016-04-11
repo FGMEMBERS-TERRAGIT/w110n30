@@ -1,0 +1,17 @@
+OBJECT_SHARED Models/Power/windturbine.xml -102.684167 38.060833 1070.73 180
+OBJECT_SHARED Models/Power/windturbine.xml -102.537692 38.033361 1155.15 180
+OBJECT_SHARED Models/Power/windturbine.xml -102.534636 38.032781 1161.84 180
+OBJECT_SHARED Models/Power/windturbine.xml -102.532136 38.032503 1167.22 180
+OBJECT_SHARED Models/Power/windturbine.xml -102.529358 38.031947 1163.59 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -102.695278 38.076944 943.6 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -102.625 38.064444 992.8 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -102.622778 38.114444 987.15 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -102.620556 38.114722 1023.71 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -102.608889 38.083333 964.74 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -102.601389 38.036667 1102.61 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -102.6 38.036111 1105.62 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -102.599611 38.036111 1065.72 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -102.598056 38.036944 1079.28 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -102.598056 38.037222 1085.62 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -102.597972 38.037056 1079.18 180
+OBJECT_SHARED Models/Power/generic_pylon_200m.ac -102.668333 38.034722 1180.17 180
