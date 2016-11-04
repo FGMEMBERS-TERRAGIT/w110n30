@@ -1,0 +1,194 @@
+<?xml version="1.0"?>
+
+<PropertyList>
+
+	<path>KDEN_Concourse_C.ac</path>
+
+  <model>
+      <path>Models/Airport/Jetway/jetway-movable.xml</path>
+      <offsets>
+         <x-m>4.87</x-m>
+         <y-m>1</y-m>
+         <heading-deg>270.7</heading-deg>
+      </offsets>
+   </model>
+
+  <model>
+      <path>Models/Airport/Jetway/jetway-movable.xml</path>
+      <offsets>
+         <x-m>62.1792</x-m>
+         <y-m>1</y-m>
+         <heading-deg>270.8</heading-deg>
+      </offsets>
+   </model>
+
+
+  <model>
+      <path>Models/Airport/Jetway/jetway-movable.xml</path>
+      <offsets>
+         <x-m>81.6864</x-m>
+         <y-m>1</y-m>
+         <heading-deg>270.8</heading-deg>
+      </offsets>
+   </model>
+
+  <model>
+      <path>Models/Airport/Jetway/jetway-movable.xml</path>
+      <offsets>
+         <x-m>118.2624</x-m>
+         <y-m>1</y-m>
+         <heading-deg>270.8</heading-deg>
+      </offsets>
+   </model>
+
+  <model>
+      <path>Models/Airport/Jetway/jetway-movable.xml</path>
+      <offsets>
+         <x-m>157.2768</x-m>
+         <y-m>0</y-m>
+         <heading-deg>270.8</heading-deg>
+      </offsets>
+   </model>
+
+  <model>
+      <path>Models/Airport/Jetway/jetway-movable.xml</path>
+      <offsets>
+         <x-m>292.608</x-m>
+         <y-m>1</y-m>
+         <heading-deg>250.8</heading-deg>
+      </offsets>
+   </model>
+
+  <model>
+      <path>Models/Airport/Jetway/jetway-movable.xml</path>
+      <offsets>
+         <x-m>310.896</x-m>
+         <y-m>1</y-m>
+         <heading-deg>290.8</heading-deg>
+      </offsets>
+   </model>
+
+  <model>
+      <path>Models/Airport/Jetway/jetway-movable.xml</path>
+      <offsets>
+         <x-m>346.8624</x-m>
+         <y-m>2</y-m>
+         <heading-deg>300.8</heading-deg>
+      </offsets>
+   </model>
+
+  <model>
+      <path>Models/Airport/Jetway/jetway-movable.xml</path>
+      <offsets>
+         <x-m>386.4864</x-m>
+         <y-m>1</y-m>
+         <heading-deg>270.8</heading-deg>
+      </offsets>
+   </model>
+
+  <model>
+      <path>Models/Airport/Jetway/jetway-movable.xml</path>
+      <offsets>
+         <x-m>451.104</x-m>
+         <y-m>1</y-m>
+         <heading-deg>270.8</heading-deg>
+      </offsets>
+   </model>
+
+
+
+<!-- start north side jetways -->
+
+
+  <model>
+      <path>Models/Airport/Jetway/jetway-movable.xml</path>
+      <offsets>
+         <x-m>4.87</x-m>
+         <y-m>35.57</y-m>
+         <heading-deg>90.8</heading-deg>
+      </offsets>
+   </model>
+
+  <model>
+      <path>Models/Airport/Jetway/jetway-movable.xml</path>
+      <offsets>
+         <x-m>70.104</x-m>
+         <y-m>35.57</y-m>
+         <heading-deg>90.8</heading-deg>
+      </offsets>
+   </model>
+
+  <model>
+      <path>Models/Airport/Jetway/jetway-movable.xml</path>
+      <offsets>
+         <x-m>109.728</x-m>
+         <y-m>35.57</y-m>
+         <heading-deg>90.8</heading-deg>
+      </offsets>
+   </model>
+
+  <model>
+      <path>Models/Airport/Jetway/jetway-movable.xml</path>
+      <offsets>
+         <x-m>146.304</x-m>
+         <y-m>35.57</y-m>
+         <heading-deg>95.8</heading-deg>
+      </offsets>
+   </model>
+
+  <model>
+      <path>Models/Airport/Jetway/jetway-movable.xml</path>
+      <offsets>
+         <x-m>158.496</x-m>
+         <y-m>34.57</y-m>
+         <heading-deg>60.8</heading-deg>
+      </offsets>
+   </model>
+
+  <model>
+      <path>Models/Airport/Jetway/jetway-movable.xml</path>
+      <offsets>
+         <x-m>289.56</x-m>
+         <y-m>35.57</y-m>
+         <heading-deg>90.8</heading-deg>
+      </offsets>
+   </model>
+
+  <model>
+      <path>Models/Airport/Jetway/jetway-movable.xml</path>
+      <offsets>
+         <x-m>338.328</x-m>
+         <y-m>35.57</y-m>
+         <heading-deg>90.8</heading-deg>
+      </offsets>
+   </model>
+
+  <model>
+      <path>Models/Airport/Jetway/jetway-movable.xml</path>
+      <offsets>
+         <x-m>358.14</x-m>
+         <y-m>35.57</y-m>
+         <heading-deg>90.8</heading-deg>
+      </offsets>
+   </model>
+
+  <model>
+      <path>Models/Airport/Jetway/jetway-movable.xml</path>
+      <offsets>
+         <x-m>396.24</x-m>
+         <y-m>35.57</y-m>
+         <heading-deg>90.8</heading-deg>
+      </offsets>
+   </model>
+
+  <model>
+      <path>Models/Airport/Jetway/jetway-movable.xml</path>
+      <offsets>
+         <x-m>454.152</x-m>
+         <y-m>35.57</y-m>
+         <heading-deg>90.8</heading-deg>
+      </offsets>
+   </model>
+
+</PropertyList>
+

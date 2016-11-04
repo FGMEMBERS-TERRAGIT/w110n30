@@ -1,0 +1,4 @@
+OBJECT_SHARED Models/Communications/radio-medium.xml -107.048611 32.373056 1350.86 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -107.021389 32.259722 1231.17 180
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac -107.006076 32.295386 1355.97 179.08
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac -107.000566 32.295311 1356.4 179.12
