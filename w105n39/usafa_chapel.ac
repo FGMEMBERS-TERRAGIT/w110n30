@@ -8,7 +8,7 @@ kids 194
 OBJECT poly
 name "box"
 loc 0.335608 2.1989 16.9601
-texture "usafa_chapel.rgb"
+texture "usafa_chapel.png"
 texrep 2 2
 texoff -0.758 0
 crease 45.000000
@@ -68,7 +68,7 @@ kids 0
 OBJECT poly
 name "box"
 loc 0.335608 4.16948 11.5518
-texture "usafa_chapel.rgb"
+texture "usafa_chapel.png"
 crease 45.000000
 numvert 8
 -10.8327 -0.15273 -2.0304
@@ -126,7 +126,7 @@ kids 0
 OBJECT poly
 name "box"
 loc 0.335608 6.02117 6.27052
-texture "usafa_chapel.rgb"
+texture "usafa_chapel.png"
 texrep 2 2
 texoff -0.783 0
 crease 45.000000
@@ -186,7 +186,7 @@ kids 0
 OBJECT poly
 name "poly"
 loc 0 -1.23692 -93.2994
-texture "usafa_chapel.rgb"
+texture "usafa_chapel.png"
 crease 45.000000
 numvert 3
 -10 23.2369 0.299355
@@ -203,7 +203,7 @@ kids 0
 OBJECT poly
 name "poly"
 loc 0 -1.23692 -87.2994
-texture "usafa_chapel.rgb"
+texture "usafa_chapel.png"
 crease 45.000000
 numvert 3
 -20 9.23692 3.29935
@@ -220,7 +220,7 @@ kids 0
 OBJECT poly
 name "poly"
 loc 0 -1.23692 -81.2994
-texture "usafa_chapel.rgb"
+texture "usafa_chapel.png"
 crease 45.000000
 numvert 3
 -10 23.2369 0.299355
@@ -237,7 +237,7 @@ kids 0
 OBJECT poly
 name "poly"
 loc 0 -1.23692 -75.2994
-texture "usafa_chapel.rgb"
+texture "usafa_chapel.png"
 crease 45.000000
 numvert 3
 -20 9.23692 3.29935
@@ -254,7 +254,7 @@ kids 0
 OBJECT poly
 name "poly"
 loc 0 -1.23692 -69.2994
-texture "usafa_chapel.rgb"
+texture "usafa_chapel.png"
 crease 45.000000
 numvert 3
 -10 23.2369 0.299355
@@ -271,7 +271,7 @@ kids 0
 OBJECT poly
 name "poly"
 loc 0 -1.23692 -63.2994
-texture "usafa_chapel.rgb"
+texture "usafa_chapel.png"
 crease 45.000000
 numvert 3
 -20 9.23692 3.29935
@@ -288,7 +288,7 @@ kids 0
 OBJECT poly
 name "poly"
 loc 0 -1.23692 -57.2994
-texture "usafa_chapel.rgb"
+texture "usafa_chapel.png"
 crease 45.000000
 numvert 3
 -10 23.2369 0.299355
@@ -305,7 +305,7 @@ kids 0
 OBJECT poly
 name "poly"
 loc 0 -1.23692 -51.2994
-texture "usafa_chapel.rgb"
+texture "usafa_chapel.png"
 crease 45.000000
 numvert 3
 -20 9.23692 3.29935
@@ -322,7 +322,7 @@ kids 0
 OBJECT poly
 name "poly"
 loc 0 -1.23692 -45.2994
-texture "usafa_chapel.rgb"
+texture "usafa_chapel.png"
 crease 45.000000
 numvert 3
 -10 23.2369 0.299355
@@ -339,7 +339,7 @@ kids 0
 OBJECT poly
 name "poly"
 loc 0 -1.23692 -39.2994
-texture "usafa_chapel.rgb"
+texture "usafa_chapel.png"
 crease 45.000000
 numvert 3
 -20 9.23692 3.29935
@@ -356,7 +356,7 @@ kids 0
 OBJECT poly
 name "poly"
 loc 0 -1.23692 -33.2994
-texture "usafa_chapel.rgb"
+texture "usafa_chapel.png"
 crease 45.000000
 numvert 3
 -10 23.2369 0.299355
@@ -373,7 +373,7 @@ kids 0
 OBJECT poly
 name "poly"
 loc 0 -1.23692 -27.2994
-texture "usafa_chapel.rgb"
+texture "usafa_chapel.png"
 crease 45.000000
 numvert 3
 -20 9.23692 3.29935
@@ -390,7 +390,7 @@ kids 0
 OBJECT poly
 name "poly"
 loc 0 -1.23692 -21.2994
-texture "usafa_chapel.rgb"
+texture "usafa_chapel.png"
 crease 45.000000
 numvert 3
 -10 23.2369 0.299355
@@ -407,7 +407,7 @@ kids 0
 OBJECT poly
 name "poly"
 loc 0 -1.23692 -15.2994
-texture "usafa_chapel.rgb"
+texture "usafa_chapel.png"
 crease 45.000000
 numvert 3
 -20 9.23692 3.29935
@@ -424,7 +424,7 @@ kids 0
 OBJECT poly
 name "poly"
 loc 0 -1.23692 -9.2994
-texture "usafa_chapel.rgb"
+texture "usafa_chapel.png"
 crease 45.000000
 numvert 3
 -10 23.2369 0.299355
@@ -441,7 +441,7 @@ kids 0
 OBJECT poly
 name "poly"
 loc 0 -1.23692 -3.2994
-texture "usafa_chapel.rgb"
+texture "usafa_chapel.png"
 crease 45.000000
 numvert 3
 -20 9.23692 3.29935
@@ -458,7 +458,7 @@ kids 0
 OBJECT poly
 name "poly"
 loc 0 -1.23692 -3.2994
-texture "usafa_chapel.rgb"
+texture "usafa_chapel.png"
 crease 45.000000
 numvert 3
 10 23.2369 0.299355
@@ -475,7 +475,7 @@ kids 0
 OBJECT poly
 name "poly"
 loc 0 -1.23692 -9.2994
-texture "usafa_chapel.rgb"
+texture "usafa_chapel.png"
 crease 45.000000
 numvert 3
 20 9.23692 3.29935
@@ -492,7 +492,7 @@ kids 0
 OBJECT poly
 name "poly"
 loc 0 -1.23692 -15.2994
-texture "usafa_chapel.rgb"
+texture "usafa_chapel.png"
 crease 45.000000
 numvert 3
 10 23.2369 0.299355
@@ -509,7 +509,7 @@ kids 0
 OBJECT poly
 name "poly"
 loc 0 -1.23692 -21.2994
-texture "usafa_chapel.rgb"
+texture "usafa_chapel.png"
 crease 45.000000
 numvert 3
 20 9.23692 3.29935
@@ -526,7 +526,7 @@ kids 0
 OBJECT poly
 name "poly"
 loc 0 -1.23692 -27.2994
-texture "usafa_chapel.rgb"
+texture "usafa_chapel.png"
 crease 45.000000
 numvert 3
 10 23.2369 0.299355
@@ -543,7 +543,7 @@ kids 0
 OBJECT poly
 name "poly"
 loc 0 -1.23692 -33.2994
-texture "usafa_chapel.rgb"
+texture "usafa_chapel.png"
 crease 45.000000
 numvert 3
 20 9.23692 3.29935
@@ -560,7 +560,7 @@ kids 0
 OBJECT poly
 name "poly"
 loc 0 -1.23692 -39.2994
-texture "usafa_chapel.rgb"
+texture "usafa_chapel.png"
 crease 45.000000
 numvert 3
 10 23.2369 0.299355
@@ -577,7 +577,7 @@ kids 0
 OBJECT poly
 name "poly"
 loc 0 -1.23692 -45.2994
-texture "usafa_chapel.rgb"
+texture "usafa_chapel.png"
 crease 45.000000
 numvert 3
 20 9.23692 3.29935
@@ -594,7 +594,7 @@ kids 0
 OBJECT poly
 name "poly"
 loc 0 -1.23692 -51.2994
-texture "usafa_chapel.rgb"
+texture "usafa_chapel.png"
 crease 45.000000
 numvert 3
 10 23.2369 0.299355
@@ -611,7 +611,7 @@ kids 0
 OBJECT poly
 name "poly"
 loc 0 -1.23692 -57.2994
-texture "usafa_chapel.rgb"
+texture "usafa_chapel.png"
 crease 45.000000
 numvert 3
 20 9.23692 3.29935
@@ -628,7 +628,7 @@ kids 0
 OBJECT poly
 name "poly"
 loc 0 -1.23692 -69.2994
-texture "usafa_chapel.rgb"
+texture "usafa_chapel.png"
 crease 45.000000
 numvert 3
 10 23.2369 0.299355
@@ -645,7 +645,7 @@ kids 0
 OBJECT poly
 name "poly"
 loc 0 -1.23692 -75.2994
-texture "usafa_chapel.rgb"
+texture "usafa_chapel.png"
 crease 45.000000
 numvert 3
 20 9.23692 3.29935
@@ -662,7 +662,7 @@ kids 0
 OBJECT poly
 name "poly"
 loc 0 -1.23692 -81.2994
-texture "usafa_chapel.rgb"
+texture "usafa_chapel.png"
 crease 45.000000
 numvert 3
 10 23.2369 0.299355
@@ -679,7 +679,7 @@ kids 0
 OBJECT poly
 name "poly"
 loc 0 -1.23692 -87.2994
-texture "usafa_chapel.rgb"
+texture "usafa_chapel.png"
 crease 45.000000
 numvert 3
 20 9.23692 3.29935
@@ -696,7 +696,7 @@ kids 0
 OBJECT poly
 name "poly"
 loc 0 -1.23692 -63.2994
-texture "usafa_chapel.rgb"
+texture "usafa_chapel.png"
 crease 45.000000
 numvert 3
 20 9.23692 3.29935
@@ -2594,7 +2594,7 @@ kids 0
 OBJECT poly
 name "poly"
 loc 0 -1.23692 -93.2994
-texture "usafa_chapel.rgb"
+texture "usafa_chapel.png"
 crease 45.000000
 numvert 3
 10 23.2369 0.299355
@@ -2611,7 +2611,7 @@ kids 0
 OBJECT poly
 name "poly"
 loc -0.128357 25.535 0
-texture "usafa_chapel.rgb"
+texture "usafa_chapel.png"
 crease 45.000000
 numvert 5
 0.128357 25.465 0
@@ -5252,7 +5252,7 @@ kids 0
 OBJECT poly
 name "poly"
 loc -4.15927 49.2598 0
-texture "usafa_chapel.rgb"
+texture "usafa_chapel.png"
 crease 45.000000
 numvert 4
 4.15927 1.74022 -3
@@ -5371,7 +5371,7 @@ kids 0
 OBJECT poly
 name "poly"
 loc -0.128357 25.535 -96
-texture "usafa_chapel.rgb"
+texture "usafa_chapel.png"
 crease 45.000000
 numvert 5
 10.1283 -3.53497 0
