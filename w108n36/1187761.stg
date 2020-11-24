@@ -2,3 +2,10 @@ OBJECT_SHARED Models/Communications/radio-medium.xml -107.726944 36.864444 1803.
 OBJECT_SHARED Models/Communications/radio-medium.xml -107.621389 36.801944 1753.44 180
 OBJECT_SHARED Models/Communications/radio-medium.xml -107.568889 36.786944 1960.86 180
 OBJECT_SHARED Models/Communications/radio-medium.xml -107.528639 36.829444 1931.31 180
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -107.65169 36.80734 0.00 269.42
+OBJECT_SHARED Models/Transport/hatchback_red.ac -107.65164 36.80731 1970.58 291.41
+OBJECT_SHARED Models/lib/office3x10.ac -107.65163 36.80724 1970.58 199
+# END dsf2stg

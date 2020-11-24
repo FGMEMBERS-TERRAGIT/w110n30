@@ -18,3 +18,11 @@ OBJECT_SHARED Models/Power/generic_pylon_50m.ac -101.780842 37.925308 1022.53 90
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -101.780516 37.899966 1020.14 76.07
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -101.780516 37.900221 1020.36 89.91
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -101.780462 37.914049 1018.43 270.67
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/MedHangar.ac -101.75129 37.99522 1006.08 180.498
+OBJECT_SHARED Models/lib/propane-tank.ac -101.75161 37.99579 1005.67 0
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -101.75146 37.99552 1006.51 0
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -101.75137 37.99552 1005.96 0
+# END dsf2stg

@@ -9,3 +9,13 @@ OBJECT_SHARED Models/Communications/radio-medium.xml -101.199167 36.184167 842.7
 OBJECT_SHARED Models/Communications/radio-medium.xml -101.1925 36.199444 812.37 180
 OBJECT_SHARED Models/Communications/radio-medium.xml -101.191944 36.197778 806.37 180
 OBJECT_SHARED Models/Communications/radio-medium.xml -101.185278 36.198056 812.57 180
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/LongRow.ac -101.19711 36.22019 0.00 200.85
+OBJECT_SHARED Models/lib/LongRow.ac -101.19745 36.22092 937.91 200.85
+OBJECT_SHARED Models/lib/LongRow.ac -101.19728 36.22055 937.71 200.85
+OBJECT_SHARED Models/lib/LongRow.ac -101.19759 36.22121 937.84 200.85
+OBJECT_SHARED Models/lib/vintage-tower-hangar.ac -101.19695 36.21967 937.20 148.74
+OBJECT_SHARED Models/lib/HorizTanks2.ac -101.19763 36.21956 937.93 60.87
+# END dsf2stg

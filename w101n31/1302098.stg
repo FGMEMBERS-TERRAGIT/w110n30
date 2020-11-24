@@ -95,5 +95,5 @@ OBJECT_SHARED Models/Power/generic_pylon_50m.ac -100.307142 31.250007 675.71 329
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/lib/FireStationLg.ac -100.49856 31.36896 575.31 304.19
+OBJECT_SHARED Models/lib/FireStationLg.ac -100.49856 31.36896 581.80 304.19
 # END dsf2stg

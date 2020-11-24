@@ -11,3 +11,10 @@ OBJECT_SHARED Models/Communications/radio-medium.xml -104.614167 39.741111 1543.
 OBJECT_SHARED Models/Communications/radio-medium.xml -104.613889 39.659167 1699.8 180
 OBJECT_SHARED Models/Communications/radio-medium.xml -104.526389 39.7275 1545.13 180
 OBJECT_SHARED Models/Communications/vordme_1.xml -104.620972 39.690139 1754.93 180
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -104.74987 39.71009 1701.43 94.09
+OBJECT_SHARED Models/lib/LuggCartGroup.ac -104.74980 39.71018 1702.90 196.16
+OBJECT_SHARED Models/lib/cargo_pod_lot.ac -104.74980 39.71007 1702.90 357.4
+# END dsf2stg

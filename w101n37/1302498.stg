@@ -129,3 +129,11 @@ OBJECT_SHARED Models/Power/windturbine.xml -100.344444 37.605278 819.62 180
 OBJECT_SHARED Models/Communications/radio-medium.xml -100.450278 37.585 731.58 180
 OBJECT_SHARED Models/Communications/radio-medium.xml -100.444722 37.600278 708.19 180
 OBJECT_SHARED Models/Communications/radio-medium.xml -100.356667 37.597778 723.81 180
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/SmHangar.ac -100.46827 37.59105 0.00 90
+OBJECT_SHARED Models/lib/SmHangar.ac -100.46859 37.59105 848.82 90
+OBJECT_SHARED Models/lib/cars6.ac -100.46848 37.59052 848.86 90
+OBJECT_SHARED Models/lib/cars2.ac -100.46848 37.59070 848.18 90
+# END dsf2stg

@@ -125,3 +125,17 @@ OBJECT_SHARED Models/Power/generic_pylon_50m.ac -101.025222 35.576425 994.86 0.8
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -101.0051 35.576663 981.45 0.86
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -101.001246 35.576711 982.7 348.52
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -101.000353 35.57639 981.17 349.59
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Effects/taxilampblue.xml -101.00125 35.61490 987.17 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml -101.00124 35.61484 988.24 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml -101.00128 35.61476 988.21 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml -101.00135 35.61472 988.21 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml -101.00143 35.61468 988.18 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml -101.00141 35.61512 988.18 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml -101.00144 35.61516 988.29 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml -101.00152 35.61516 988.32 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml -101.00162 35.61513 988.28 0
+OBJECT_SHARED Models/Effects/taxilampblue.xml -101.00172 35.61508 988.25 0
+# END dsf2stg
